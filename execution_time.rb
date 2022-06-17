@@ -67,5 +67,5 @@ def largest_contiguous_subsum_2(arr)
     end
     big_arr
 end
-list = [-5, -1, -3]
+list = [-5, -1, -3, 7, 3, 3,4,5,7]
 p largest_contiguous_subsum_2(list) # => -1 (from [-1])
